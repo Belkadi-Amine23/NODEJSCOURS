@@ -1,0 +1,22 @@
+{
+  "name": "nodejscours",
+  "version": "1.0.0",
+  "description": "^C",
+  "main": "npm install",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belkadi-Amine23/NODEJSCOURS.git"
+  },
+  "keywords": [
+    "NODEJSCOURS"
+  ],
+  "author": "AMINE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belkadi-Amine23/NODEJSCOURS/issues"
+  },
+  "homepage": "https://github.com/Belkadi-Amine23/NODEJSCOURS#readme"
+}
